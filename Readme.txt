@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: Techie
-Template URL: https://bootstrapmade.com/techie-free-skin-bootstrap-3/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Fully working PHP/AJAX contact form script is available in the pro version of the template.
+You can buy it from: https://bootstrapmade.com/techie-free-skin-bootstrap-3/
